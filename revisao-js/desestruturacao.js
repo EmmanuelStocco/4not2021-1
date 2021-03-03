@@ -13,7 +13,7 @@ console.log(y)
 console.log(z)
 
 //Destruturação de objetos - as var do let devem ter os mesmos nomes
-//das propriedades nao importa a ordem
+//das propriedades nao importa a ordem, se fizer igual no vetor vai dar pau, é  fechado
 let {naturalidade, nome, idade} = obj
 console.log(nome)
 console.log(idade)
